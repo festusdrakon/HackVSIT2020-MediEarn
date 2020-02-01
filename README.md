@@ -3,7 +3,7 @@
 ## Theme : SDG - Reducing Wealth Inequality
 
 ## Project Description
-We're working towards creating a democratized healthcare data platform where users will be incentivized to retain complete ownership over their personal medical records. This is an attempt to disrupt monopoly over the ownership and access of data by corporates profitting off of it due to the unawareness of contibuting users which reduces wealth inequality by dis-empowering the **richer** section of the society from commercializing the data of the **poorer** section. This real world data will be anonymized and made available to medical research facilities for the study of innovative solutions to global health problems.
+We're working towards creating a democratized healthcare data platform where users will be incentivized to retain complete ownership over their personal medical records. This is an attempt to disrupt monopoly over the ownership and access of data by corporates profitting off of it due to the unawareness of contributing users which reduces wealth inequality by dis-empowering the **richer** section of the society from commercializing the data of the **poorer** section. This real world data will be anonymized and made available to medical research facilities for the study of innovative solutions to global health problems.
 
 ## What it Does?
 * The user is assigned a unique address 
